@@ -1,0 +1,44 @@
+{
+    "categoriesItems": [
+        {
+            "name": "Dentistry",
+            "image": "assets/images/group_8.svg",
+            "color": "0xFFDC9497"
+        },
+        {
+            "name": "Cardiology",
+            "image": "assets/images/group_7.svg",
+            "color": "0xFF93C19E"
+        },
+        {
+            "name": "Pulmonology",
+            "image": "assets/images/group_6.svg",
+            "color": "0xFFF5AD7E"
+        },
+        {
+            "name": "General",
+            "image": "assets/images/group_5.svg",
+            "color": "0xFFACA1CD"
+        },
+        {
+            "name": "Neurology",
+            "image": "assets/images/group_4.svg",
+            "color": "0xFF4D9B91"
+        },
+        {
+            "name": "Gastroenterology",
+            "image": "assets/images/group_3.svg",
+            "color": "0xFF352261"
+        },
+        {
+            "name": "Laboratory",
+            "image": "assets/images/group_2.svg",
+            "color": "0xFFDEB6B5"
+        },
+        {
+            "name": "Vaccination",
+            "image": "assets/images/group_1.svg",
+            "color": "0xFF89CCDB"
+        }
+    ]
+}

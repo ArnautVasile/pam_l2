@@ -1,0 +1,19 @@
+{
+    "carouselItems": [
+        {
+            "image": "assets/images/doc1.png",
+            "title": "Looking for Specialist Doctors?",
+            "description": "Schedule an appointment with our top doctors."
+        },
+        {
+            "image": "assets/images/doc1.png",
+            "title": "Doctor B",
+            "description": "Expert in Neurology and in me."
+        },
+        {
+            "image": "assets/images/doc1.png",
+            "title": "Doctor C",
+            "description": "Pediatrician."
+        }
+    ]
+}

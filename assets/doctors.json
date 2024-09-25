@@ -1,0 +1,44 @@
+{
+    "doctors": [
+        {
+            "name": "Dr. David Patel",
+            "specialization": "Cardiologist",
+            "location": "Cardiology Center, USA",
+            "rating": 5.0,
+            "reviews": 1872,
+            "image": "assets/images/MinDoc1.png"
+        },
+        {
+            "name": "Dr. Jessica Turner",
+            "specialization": "Gynecologist",
+            "location": "Women's Clinic, Seattle, USA",
+            "rating": 4.9,
+            "reviews": 127,
+            "image": "assets/images/MinDoc2.png"
+        },
+        {
+            "name": "Dr. Michael Johnson",
+            "specialization": "Orthopedic Surgery",
+            "location": "Maple Associates, NY, USA",
+            "rating": 4.7,
+            "reviews": 5223,
+            "image": "assets/images/MinDoc3.png"
+        },
+        {
+            "name": "Dr. Emily Walker",
+            "specialization": "Pediatrics",
+            "location": "Serenity Pediatrics Clinic",
+            "rating": 5.0,
+            "reviews": 405,
+            "image": "assets/images/MinDoc4.png"
+        },
+        {
+            "name": "Dr. Emily Walker",
+            "specialization": "Pediatrics",
+            "location": "Serenity Pediatrics Clinic",
+            "rating": 5.0,
+            "reviews": 405,
+            "image": "assets/images/MinDoc5.png"
+        }
+    ]
+}

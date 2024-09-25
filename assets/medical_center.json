@@ -1,0 +1,24 @@
+{
+    "medicalCenters": [
+        {
+            "name": "Sunrise Health Clinic",
+            "address": "123 Oak Street, CA 98765",
+            "image": "assets/images/hospital-img-1.png",
+            "rating": 5.0,
+            "reviews": 58,
+            "type": "Hospital",
+            "distance": "2.5 km",
+            "time": "40 min"
+        },
+        {
+            "name": "Golden Cardiology",
+            "address": "555 Bridge Street, CA 98766",
+            "image": "assets/images/hospital-img-2.png",
+            "rating": 4.9,
+            "reviews": 108,
+            "type": "Clinic",
+            "distance": "2.5 km",
+            "time": "40 min"
+        }
+    ]
+}
